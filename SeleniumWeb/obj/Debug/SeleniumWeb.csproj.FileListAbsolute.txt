@@ -1,0 +1,9 @@
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\bin\Debug\SeleniumWeb.dll
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\bin\Debug\SeleniumWeb.pdb
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\bin\Debug\WebDriver.dll
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\bin\Debug\WebDriver.Support.dll
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\bin\Debug\WebDriver.xml
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\bin\Debug\WebDriver.Support.xml
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\obj\Debug\SeleniumWeb.csprojResolveAssemblyReference.cache
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\obj\Debug\SeleniumWeb.dll
+C:\Users\bruno.jesus\Desktop\C#\Exception\SeleniumWeb\SeleniumWeb\obj\Debug\SeleniumWeb.pdb
